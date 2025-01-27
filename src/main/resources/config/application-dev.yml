@@ -35,6 +35,7 @@ dct-base:
       - com.dct.base.repositories
       - com.dct.nextgen.repositories
   datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
     database: jdbc:mysql://localhost:3306/nextgen_brand?serverTimezone=UTC
     username: admin-nextgen-brand
     password: 123456a@

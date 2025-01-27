@@ -114,6 +114,11 @@
       "name": "dct-base.jpa.base-repository-packages",
       "type": "java.lang.String",
       "description": "Description for dct-base.jpa.base-repository-packages."
+    },
+    {
+      "name": "dct-base.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for dct-base.datasource.driver-class-name."
     }
   ]
 }
